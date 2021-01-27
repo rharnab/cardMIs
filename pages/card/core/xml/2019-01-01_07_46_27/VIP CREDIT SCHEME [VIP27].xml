@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<Statements>
+	<Statement>
+		<StatementNo>1</StatementNo>
+		<Client>MOJIB UDDIN AHMED</Client>
+		<IdClient>2987706</IdClient>
+		<Country>BANGLADESH</Country>
+		<Region>DHAKA</Region>
+		<Pager>880()</Pager>
+		<STATEMENT_DATE>27/09/2018</STATEMENT_DATE>
+		<StartDate>28/08/2018 00:00:00</StartDate>
+		<Mobile>880(17130)46067</Mobile>
+		<CARD_LIST>410787******0831</CARD_LIST>
+		<PersonalCode>VPC#00153</PersonalCode>
+		<NEXT_STATEMENT_DATE>27/10/2018</NEXT_STATEMENT_DATE>
+		<Address>DHAKA  CHAIRMAN,ICB,BDBL BHABAN(L-14),8 RAJUK AVENUE,DHAKA</Address>
+		<PAYMENT_DATE>12/10/2018</PAYMENT_DATE>
+		<Telephone>880()</Telephone>
+		<EndDate>27/09/2018 00:00:00</EndDate>
+		<Fax>880()</Fax>
+		<STATEMENT_PERIOD>15</STATEMENT_PERIOD>
+		<StreetAddress>CHAIRMAN,ICB,BDBL BHABAN(L-14),8 RAJUK AVENUE,DHAKA</StreetAddress>
+		<ContractNo>25320298770600000004</ContractNo>
+		<ContractType>2532</ContractType>
+		<ClientLat>MOJIB UDDIN AHMED</ClientLat>
+		<StatementType>1</StatementType>
+		<SendType>4</SendType>
+		<Sex>Male</Sex>
+		<Title>MR.</Title>
+		<MAIN_CARD>410787******0831-0</MAIN_CARD>
+		<Operations>
+			<Operation>
+				<StatementNo>1</StatementNo>
+				<O>2</O>
+				<DE>Bank transaction</DE>
+				<CF>0</CF>
+			</Operation>
+			<Operation>
+				<StatementNo>1</StatementNo>
+				<O>1</O>
+				<DE>Bank transaction</DE>
+				<CF>0</CF>
+			</Operation>
+		</Operations>
+		<Accounts>
+			<Account>
+				<StatementNo>1</StatementNo>
+				<ACCOUNTNO>707705000100000879</ACCOUNTNO>
+				<OVLFEE_AMOUNT>0.00</OVLFEE_AMOUNT>
+				<OVDFEE_AMOUNT>0.00</OVDFEE_AMOUNT>
+				<SUM_REVERSE>0.00</SUM_REVERSE>
+				<SUM_CREDIT>0.00</SUM_CREDIT>
+				<SUM_OTHER>0.00</SUM_OTHER>
+				<SUM_INTEREST>0.00</SUM_INTEREST>
+				<SUM_PURCHASE>0.00</SUM_PURCHASE>
+				<SUM_WITHDRAWAL>0.00</SUM_WITHDRAWAL>
+				<MIN_AMOUNT_DUE>0.00</MIN_AMOUNT_DUE>
+				<AVAIL_CASH_LIMIT>300000.00</AVAIL_CASH_LIMIT>
+				<CASH_LIMIT>300000.00</CASH_LIMIT>
+				<INSTALL_UNPAID_AMOUNT>0.00</INSTALL_UNPAID_AMOUNT>
+				<INSTALL_MONTH_PAYM>0.00</INSTALL_MONTH_PAYM>
+				<AVAIL_CRD_LIMIT>600000.00</AVAIL_CRD_LIMIT>
+				<CRD_LIMIT>600000.00</CRD_LIMIT>
+				<EBALANCE>0.00</EBALANCE>
+				<SBALANCE>0.00</SBALANCE>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+			</Account>
+			<Account>
+				<StatementNo>1</StatementNo>
+				<ACCOUNTNO>707784000200000847</ACCOUNTNO>
+				<OVLFEE_AMOUNT>0.00</OVLFEE_AMOUNT>
+				<OVDFEE_AMOUNT>0.00</OVDFEE_AMOUNT>
+				<SUM_REVERSE>0.00</SUM_REVERSE>
+				<SUM_CREDIT>0.00</SUM_CREDIT>
+				<SUM_OTHER>0.00</SUM_OTHER>
+				<SUM_INTEREST>0.00</SUM_INTEREST>
+				<SUM_PURCHASE>0.00</SUM_PURCHASE>
+				<SUM_WITHDRAWAL>0.00</SUM_WITHDRAWAL>
+				<MIN_AMOUNT_DUE>0.00</MIN_AMOUNT_DUE>
+				<AVAIL_CASH_LIMIT>0.00</AVAIL_CASH_LIMIT>
+				<CASH_LIMIT>0.00</CASH_LIMIT>
+				<INSTALL_UNPAID_AMOUNT>0.00</INSTALL_UNPAID_AMOUNT>
+				<INSTALL_MONTH_PAYM>0.00</INSTALL_MONTH_PAYM>
+				<AVAIL_CRD_LIMIT>0.00</AVAIL_CRD_LIMIT>
+				<CRD_LIMIT>0.00</CRD_LIMIT>
+				<EBALANCE>0.00</EBALANCE>
+				<SBALANCE>0.00</SBALANCE>
+				<ACURC>840</ACURC>
+				<ACURN>USD</ACURN>
+			</Account>
+		</Accounts>
+		<Cards>
+			<Card>
+				<StatementNo>1</StatementNo>
+				<PAN>410787******0831</PAN>
+				<MBR>0</MBR>
+				<CLIENTNAME>MOJIB UDDIN AHMED</CLIENTNAME>
+			</Card>
+		</Cards>
+	</Statement>
+	<Statement>
+		<StatementNo>2</StatementNo>
+		<Client>SUDHANGSHU SHEKHAR BHADRA</Client>
+		<IdClient>2934720</IdClient>
+		<Country>BANGLADESH</Country>
+		<Region>DHAKA</Region>
+		<Pager>880()</Pager>
+		<STATEMENT_DATE>27/09/2018</STATEMENT_DATE>
+		<Email>sudhangshushekharbhadra@gmail.com</Email>
+		<StartDate>28/08/2018 00:00:00</StartDate>
+		<Mobile>880(17999)49800</Mobile>
+		<CARD_LIST>410787******8123</CARD_LIST>
+		<PersonalCode>VPC00125</PersonalCode>
+		<NEXT_STATEMENT_DATE>27/10/2018</NEXT_STATEMENT_DATE>
+		<Address>DHAKA  BANGLADESH POST,DAK BHABAN,GPO,ZERO POINT,GULISTAN</Address>
+		<PAYMENT_DATE>12/10/2018</PAYMENT_DATE>
+		<Telephone>880()</Telephone>
+		<EndDate>27/09/2018 00:00:00</EndDate>
+		<Fax>880()BANGLADESH</Fax>
+		<STATEMENT_PERIOD>15</STATEMENT_PERIOD>
+		<StreetAddress>BANGLADESH POST,DAK BHABAN,GPO,ZERO POINT,GULISTAN</StreetAddress>
+		<ContractNo>25320293472000000003</ContractNo>
+		<ContractType>2532</ContractType>
+		<ClientLat>S S BHADRA</ClientLat>
+		<StatementType>1</StatementType>
+		<SendType>4</SendType>
+		<Sex>Male</Sex>
+		<Title>MR.</Title>
+		<MAIN_CARD>410787******8123-0</MAIN_CARD>
+		<Operations>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>13</O>
+				<OD>04/09/2018 00:00:00</OD>
+				<TD>01/09/2018 00:00:00</TD>
+				<A>44.54</A>
+				<ACURC>840</ACURC>
+				<ACURN>USD</ACURN>
+				<D>Purchase</D>
+				<DE>POS transaction</DE>
+				<P>410787******8123</P>
+				<OA>44.54</OA>
+				<OCC>840</OCC>
+				<OC>USD</OC>
+				<TL>Dubai International Hote Dubai AE</TL>
+				<TERMN>10038652</TERMN>
+				<CF>1</CF>
+				<S>7011</S>
+				<MN>merchant category &quot;Lodging--Hotels&quot;</MN>
+				<DOCNO>87682591</DOCNO>
+				<NO>1</NO>
+				<ACCOUNT>707784000200000713</ACCOUNT>
+				<ACC>1010384031</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+				<FR>P 10</FR>
+				<APPROVAL>023015</APPROVAL>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>12</O>
+				<OD>14/09/2018 00:00:00</OD>
+				<A>11.5</A>
+				<ACURC>840</ACURC>
+				<ACURN>USD</ACURN>
+				<D>LATE PAYMENT FEE[INCLUDING VAT]</D>
+				<DE>Bank transaction</DE>
+				<CF>0</CF>
+				<DOCNO>88177640</DOCNO>
+				<NO>2</NO>
+				<ACCOUNT>707784000200000713</ACCOUNT>
+				<ACC>3030184012</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>11</O>
+				<OD>27/09/2018 00:00:00</OD>
+				<A>2.04</A>
+				<ACURC>840</ACURC>
+				<ACURN>USD</ACURN>
+				<D>Charge interest for 2</D>
+				<DE>Bank transaction</DE>
+				<CF>1</CF>
+				<DOCNO>88730610</DOCNO>
+				<NO>4</NO>
+				<ACCOUNT>707784000200000713</ACCOUNT>
+				<ACC>3030184010</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>10</O>
+				<OD>27/09/2018 00:00:00</OD>
+				<A>.13</A>
+				<ACURC>840</ACURC>
+				<ACURN>USD</ACURN>
+				<D>Charge interest for 1</D>
+				<DE>Bank transaction</DE>
+				<CF>1</CF>
+				<DOCNO>88730610</DOCNO>
+				<NO>5</NO>
+				<ACCOUNT>707784000200000713</ACCOUNT>
+				<ACC>3030184010</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>9</O>
+				<OD>27/09/2018 00:00:00</OD>
+				<A>18.19</A>
+				<ACURC>840</ACURC>
+				<ACURN>USD</ACURN>
+				<D>Charge interest for 4</D>
+				<DE>Bank transaction</DE>
+				<CF>1</CF>
+				<DOCNO>88730610</DOCNO>
+				<NO>6</NO>
+				<ACCOUNT>707784000200000713</ACCOUNT>
+				<ACC>3030184010</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>8</O>
+				<OD>29/08/2018 00:00:00</OD>
+				<TD>27/08/2018 00:00:00</TD>
+				<A>3000</A>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+				<D>Purchase</D>
+				<DE>POS transaction</DE>
+				<P>410787******8123</P>
+				<OA>3000</OA>
+				<OCC>50</OCC>
+				<OC>BDT</OC>
+				<TL>BENGAL FOUNDATION UTTARA MODEL BD</TL>
+				<TERMN>80003002</TERMN>
+				<CF>0</CF>
+				<S>8299</S>
+				<MN>merchant category &quot;Schools and Educational Services--Not Elsewhere Classified&quot;</MN>
+				<DOCNO>87431450</DOCNO>
+				<NO>1</NO>
+				<ACCOUNT>707705000100000729</ACCOUNT>
+				<ACC>1010305021</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+				<FR>P 10</FR>
+				<APPROVAL>816013</APPROVAL>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>7</O>
+				<OD>30/08/2018 00:00:00</OD>
+				<TD>27/08/2018 00:00:00</TD>
+				<A>3000</A>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+				<D>Purchase</D>
+				<DE>POS transaction</DE>
+				<P>410787******8123</P>
+				<OA>3000</OA>
+				<OCC>50</OCC>
+				<OC>BDT</OC>
+				<TL>PORTWALLET.COM Dhaka BD</TL>
+				<TERMN>00000000</TERMN>
+				<CF>1</CF>
+				<S>4814</S>
+				<MN>merchant category &quot;Telecommunication Services&quot;</MN>
+				<DOCNO>87474863</DOCNO>
+				<NO>1</NO>
+				<ACCOUNT>707705000100000729</ACCOUNT>
+				<ACC>1010305021</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+				<FR>P 10</FR>
+				<APPROVAL>504014</APPROVAL>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>6</O>
+				<OD>03/09/2018 00:00:00</OD>
+				<A>3000</A>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+				<D>Customer Card Maintance Fee</D>
+				<DE>Service payment</DE>
+				<P>410787******8123</P>
+				<CF>0</CF>
+				<DOCNO>87634968</DOCNO>
+				<NO>1</NO>
+				<ACCOUNT>707705000100000729</ACCOUNT>
+				<ACC>3030205010</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>5</O>
+				<OD>11/09/2018 00:00:00</OD>
+				<TD>08/09/2018 00:00:00</TD>
+				<A>32946.41</A>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+				<D>Purchase</D>
+				<DE>POS transaction</DE>
+				<P>410787******8123</P>
+				<OA>31963.58</OA>
+				<OCC>50</OCC>
+				<OC>BDT</OC>
+				<TL>DUBAI DUTY FREE DUBAI AE</TL>
+				<TERMN>20000851</TERMN>
+				<CF>1</CF>
+				<S>5309</S>
+				<MN>merchant category &quot;Duty Free Stores&quot;</MN>
+				<DOCNO>88042143</DOCNO>
+				<NO>1</NO>
+				<ACCOUNT>707705000100000729</ACCOUNT>
+				<ACC>2020305055</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+				<FR>P 10</FR>
+				<APPROVAL>899016</APPROVAL>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>4</O>
+				<OD>14/09/2018 00:00:00</OD>
+				<A>460</A>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+				<D>LATE PAYMENT FEE[INCLUDING VAT]</D>
+				<DE>Bank transaction</DE>
+				<CF>0</CF>
+				<DOCNO>88177640</DOCNO>
+				<NO>1</NO>
+				<ACCOUNT>707705000100000729</ACCOUNT>
+				<ACC>3030105014</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>3</O>
+				<OD>27/09/2018 00:00:00</OD>
+				<A>15.4</A>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+				<D>Charge interest for 2</D>
+				<DE>Bank transaction</DE>
+				<CF>1</CF>
+				<DOCNO>88730610</DOCNO>
+				<NO>1</NO>
+				<ACCOUNT>707705000100000729</ACCOUNT>
+				<ACC>3030105012</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>2</O>
+				<OD>27/09/2018 00:00:00</OD>
+				<A>67.87</A>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+				<D>Charge interest for 1</D>
+				<DE>Bank transaction</DE>
+				<CF>1</CF>
+				<DOCNO>88730610</DOCNO>
+				<NO>2</NO>
+				<ACCOUNT>707705000100000729</ACCOUNT>
+				<ACC>3030105012</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+			</Operation>
+			<Operation>
+				<StatementNo>2</StatementNo>
+				<O>1</O>
+				<OD>27/09/2018 00:00:00</OD>
+				<A>1527.68</A>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+				<D>Charge interest for 4</D>
+				<DE>Bank transaction</DE>
+				<CF>1</CF>
+				<DOCNO>88730610</DOCNO>
+				<NO>3</NO>
+				<ACCOUNT>707705000100000729</ACCOUNT>
+				<ACC>3030105012</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+			</Operation>
+		</Operations>
+		<Accounts>
+			<Account>
+				<StatementNo>2</StatementNo>
+				<ACCOUNTNO>707705000100000729</ACCOUNTNO>
+				<OVLFEE_AMOUNT>0.00</OVLFEE_AMOUNT>
+				<OVDFEE_AMOUNT>460.00</OVDFEE_AMOUNT>
+				<SUM_REVERSE>0.00</SUM_REVERSE>
+				<SUM_CREDIT>0.00</SUM_CREDIT>
+				<SUM_OTHER>3460.00</SUM_OTHER>
+				<SUM_INTEREST>1610.95</SUM_INTEREST>
+				<SUM_PURCHASE>38946.41</SUM_PURCHASE>
+				<SUM_WITHDRAWAL>0.00</SUM_WITHDRAWAL>
+				<MIN_AMOUNT_DUE>2317.81</MIN_AMOUNT_DUE>
+				<AVAIL_CASH_LIMIT>50000.00</AVAIL_CASH_LIMIT>
+				<CASH_LIMIT>50000.00</CASH_LIMIT>
+				<INSTALL_UNPAID_AMOUNT>0.00</INSTALL_UNPAID_AMOUNT>
+				<INSTALL_MONTH_PAYM>0.00</INSTALL_MONTH_PAYM>
+				<AVAIL_CRD_LIMIT>20045.98</AVAIL_CRD_LIMIT>
+				<CRD_LIMIT>100000.00</CRD_LIMIT>
+				<EBALANCE>-79954.02</EBALANCE>
+				<SBALANCE>-35936.66</SBALANCE>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+			</Account>
+			<Account>
+				<StatementNo>2</StatementNo>
+				<ACCOUNTNO>707784000200000713</ACCOUNTNO>
+				<OVLFEE_AMOUNT>0.00</OVLFEE_AMOUNT>
+				<OVDFEE_AMOUNT>11.50</OVDFEE_AMOUNT>
+				<SUM_REVERSE>0.00</SUM_REVERSE>
+				<SUM_CREDIT>0.00</SUM_CREDIT>
+				<SUM_OTHER>11.50</SUM_OTHER>
+				<SUM_INTEREST>20.36</SUM_INTEREST>
+				<SUM_PURCHASE>44.54</SUM_PURCHASE>
+				<SUM_WITHDRAWAL>0.00</SUM_WITHDRAWAL>
+				<MIN_AMOUNT_DUE>31.37</MIN_AMOUNT_DUE>
+				<AVAIL_CASH_LIMIT>2500.00</AVAIL_CASH_LIMIT>
+				<CASH_LIMIT>2500.00</CASH_LIMIT>
+				<INSTALL_UNPAID_AMOUNT>0.00</INSTALL_UNPAID_AMOUNT>
+				<INSTALL_MONTH_PAYM>0.00</INSTALL_MONTH_PAYM>
+				<AVAIL_CRD_LIMIT>4177.73</AVAIL_CRD_LIMIT>
+				<CRD_LIMIT>5000.00</CRD_LIMIT>
+				<EBALANCE>-822.27</EBALANCE>
+				<SBALANCE>-745.87</SBALANCE>
+				<ACURC>840</ACURC>
+				<ACURN>USD</ACURN>
+			</Account>
+		</Accounts>
+		<Cards>
+			<Card>
+				<StatementNo>2</StatementNo>
+				<PAN>410787******8123</PAN>
+				<MBR>0</MBR>
+				<CLIENTNAME>SUDHANGSHU SHEKHAR BHADRA</CLIENTNAME>
+			</Card>
+		</Cards>
+	</Statement>
+	<Statement>
+		<StatementNo>3</StatementNo>
+		<Client>MD ARZAN ALI</Client>
+		<IdClient>1340440</IdClient>
+		<Country>BANGLADESH</Country>
+		<Region>BAGERHAT</Region>
+		<Pager>880()</Pager>
+		<STATEMENT_DATE>27/09/2018</STATEMENT_DATE>
+		<Email>alphaagrolg@gmail.com</Email>
+		<StartDate>28/08/2018 00:00:00</StartDate>
+		<Mobile>880(17140)83659</Mobile>
+		<CARD_LIST>410787******5427</CARD_LIST>
+		<PersonalCode>DPC#000239/VPC00119</PersonalCode>
+		<NEXT_STATEMENT_DATE>27/10/2018</NEXT_STATEMENT_DATE>
+		<Address>BAGERHAT  (KAT.BR)MD,ALPHA ACCESSORIES &amp; AGRO EXPORT LTD,NOWAPARA,KHATAKHALI,FAKIRHAT</Address>
+		<PAYMENT_DATE>12/10/2018</PAYMENT_DATE>
+		<Telephone>880()</Telephone>
+		<EndDate>27/09/2018 00:00:00</EndDate>
+		<Fax>880()</Fax>
+		<STATEMENT_PERIOD>15</STATEMENT_PERIOD>
+		<StreetAddress>(KAT.BR)MD,ALPHA ACCESSORIES &amp; AGRO EXPORT LTD,NOWAPARA,KHATAKHALI,FAKIRHAT</StreetAddress>
+		<ContractNo>25320134044000000002</ContractNo>
+		<ContractType>2532</ContractType>
+		<ClientLat>MD ARZAN ALI</ClientLat>
+		<StatementType>1</StatementType>
+		<SendType>4</SendType>
+		<Sex>Male</Sex>
+		<Title>MR.</Title>
+		<MAIN_CARD>410787******5427-0</MAIN_CARD>
+		<Operations>
+			<Operation>
+				<StatementNo>3</StatementNo>
+				<O>2</O>
+				<DE>Bank transaction</DE>
+				<CF>0</CF>
+			</Operation>
+			<Operation>
+				<StatementNo>3</StatementNo>
+				<O>1</O>
+				<OD>03/09/2018 00:00:00</OD>
+				<A>3000</A>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+				<D>Customer Card Maintance Fee</D>
+				<DE>Service payment</DE>
+				<P>410787******5427</P>
+				<CF>0</CF>
+				<DOCNO>87634967</DOCNO>
+				<NO>1</NO>
+				<ACCOUNT>707705000100000695</ACCOUNT>
+				<ACC>3030205010</ACC>
+				<AMOUNTSIGN>DR</AMOUNTSIGN>
+			</Operation>
+		</Operations>
+		<Accounts>
+			<Account>
+				<StatementNo>3</StatementNo>
+				<ACCOUNTNO>707705000100000695</ACCOUNTNO>
+				<OVLFEE_AMOUNT>0.00</OVLFEE_AMOUNT>
+				<OVDFEE_AMOUNT>0.00</OVDFEE_AMOUNT>
+				<SUM_REVERSE>0.00</SUM_REVERSE>
+				<SUM_CREDIT>0.00</SUM_CREDIT>
+				<SUM_OTHER>3000.00</SUM_OTHER>
+				<SUM_INTEREST>0.00</SUM_INTEREST>
+				<SUM_PURCHASE>0.00</SUM_PURCHASE>
+				<SUM_WITHDRAWAL>0.00</SUM_WITHDRAWAL>
+				<MIN_AMOUNT_DUE>500.00</MIN_AMOUNT_DUE>
+				<AVAIL_CASH_LIMIT>50000.00</AVAIL_CASH_LIMIT>
+				<CASH_LIMIT>50000.00</CASH_LIMIT>
+				<INSTALL_UNPAID_AMOUNT>0.00</INSTALL_UNPAID_AMOUNT>
+				<INSTALL_MONTH_PAYM>0.00</INSTALL_MONTH_PAYM>
+				<AVAIL_CRD_LIMIT>97001.43</AVAIL_CRD_LIMIT>
+				<CRD_LIMIT>100000.00</CRD_LIMIT>
+				<EBALANCE>-2998.57</EBALANCE>
+				<SBALANCE>1.43</SBALANCE>
+				<ACURC>50</ACURC>
+				<ACURN>BDT</ACURN>
+			</Account>
+			<Account>
+				<StatementNo>3</StatementNo>
+				<ACCOUNTNO>707784000200000679</ACCOUNTNO>
+				<OVLFEE_AMOUNT>0.00</OVLFEE_AMOUNT>
+				<OVDFEE_AMOUNT>0.00</OVDFEE_AMOUNT>
+				<SUM_REVERSE>0.00</SUM_REVERSE>
+				<SUM_CREDIT>0.00</SUM_CREDIT>
+				<SUM_OTHER>0.00</SUM_OTHER>
+				<SUM_INTEREST>0.00</SUM_INTEREST>
+				<SUM_PURCHASE>0.00</SUM_PURCHASE>
+				<SUM_WITHDRAWAL>0.00</SUM_WITHDRAWAL>
+				<MIN_AMOUNT_DUE>0.00</MIN_AMOUNT_DUE>
+				<AVAIL_CASH_LIMIT>2500.00</AVAIL_CASH_LIMIT>
+				<CASH_LIMIT>2500.00</CASH_LIMIT>
+				<INSTALL_UNPAID_AMOUNT>0.00</INSTALL_UNPAID_AMOUNT>
+				<INSTALL_MONTH_PAYM>0.00</INSTALL_MONTH_PAYM>
+				<AVAIL_CRD_LIMIT>5000.00</AVAIL_CRD_LIMIT>
+				<CRD_LIMIT>5000.00</CRD_LIMIT>
+				<EBALANCE>0.05</EBALANCE>
+				<SBALANCE>0.05</SBALANCE>
+				<ACURC>840</ACURC>
+				<ACURN>USD</ACURN>
+			</Account>
+		</Accounts>
+		<Cards>
+			<Card>
+				<StatementNo>3</StatementNo>
+				<PAN>410787******5427</PAN>
+				<MBR>0</MBR>
+				<CLIENTNAME>MD ARZAN ALI</CLIENTNAME>
+			</Card>
+		</Cards>
+	</Statement>
+</Statements>

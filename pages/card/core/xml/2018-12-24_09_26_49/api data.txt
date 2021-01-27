@@ -1,0 +1,5 @@
+{"0":"0002121000084 ","accountno":"0002121000084 ","1":"0002000453","customer":"0002000453","2":"Staff Savings Deposit","glhead":"Staff Savings Deposit",
+ "3":"K.M.FAISAL","acname":"K.M.FAISAL","4":"OPERATIVE","status":"OPERATIVE","5":"2013-04-29 00:00:00.000","opend":"2013-04-29 00:00:00.000",
+ "6":"KAZI OBAIDUL HOQUE","father_hus":"KAZI OBAIDUL HOQUE","7":null,"National_id":null,"8":"01736444202","pre_mobilno":"01736444202",
+ "9":"108\/F,EAST RAMPUARA, DHAKA","sub_head_addr":"108\/F,EAST RAMPUARA, DHAKA","10":"1987-12-01 00:00:00.000","dob":"1987-12-01 00:00:00.000","11":"M",
+ "sex":"M","12":"443.80","bal_tk":"443.80"}

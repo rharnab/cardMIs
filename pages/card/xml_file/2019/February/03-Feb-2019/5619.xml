@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DebitCard>
+  <customer customer_id="dynamic">
+    <FIO>K.M.FAISAL</FIO>
+    <SEX>M</SEX>
+    <TITLE>1</TITLE>
+    <LATFIO>K.M.FAISAL</LATFIO>
+    <NAMEONCARD>K.M.FAISAL</NAMEONCARD>
+    <ACCOUNT>0002121000084</ACCOUNT>
+    <ACCOUNTTP>121</ACCOUNTTP>
+    <ACCTSTAT>OPERATIVE</ACCTSTAT>
+    <ADDRESS>108/F,EAST RAMPUARA, DHAKA</ADDRESS>
+    <CELLPHONE>1736444202</CELLPHONE>
+    <BIRTHDAY>1987-12-01</BIRTHDAY>
+  </customer>
+</DebitCard>
